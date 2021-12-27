@@ -1,3 +1,7 @@
+# Sobre a abordagem 
+Inicialmente, o projeto foi desenvolvido com abordagem tradicional, com class components. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
